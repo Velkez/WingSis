@@ -80,24 +80,7 @@ const App: React.FC = () => {
           <IonTitle className="ion-text-center mr-11">Alarma</IonTitle>
         </IonToolbar>
 
-        <IonTabBar slot="bottom">
-          <IonTabButton tab="home" href="/home">
-            <IonIcon icon={home} />
-            <IonLabel>Inicio</IonLabel>
-          </IonTabButton>
-
-          <IonMenuToggle>
-            <IonItem routerLink="/home" routerDirection="none" lines="none">
-              <IonIcon color="medium" slot="start" icon={home} />
-              <IonLabel>Inicio</IonLabel>
-            </IonItem>
-          </IonMenuToggle>
-
-          <IonTabButton tab="historial" href="/HistoryPage">
-            <IonIcon icon={newspaper} />
-            <IonLabel>Historial</IonLabel>
-          </IonTabButton>
-        </IonTabBar>
+       
 
         <IonRouterOutlet id="menu">
           <Route exact path="/home">
