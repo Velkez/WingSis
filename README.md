@@ -5,7 +5,7 @@
 * **Descarga y clonación del proyecto**: Para clonar el proyecto copie su enlace, abra su terminal y realice
 
     ```bash
-        git clone https://github.com/ElKingBruh/WingSis.git
+        git clone https://github.com/Velkez/WingSis.git
     ```
     Esto clonara el repositorio del proyecto en cuestión.
 
