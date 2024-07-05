@@ -1,5 +1,9 @@
 # Aplicación Móvil para el control de un dispositivo de alarma
 
+### Advertencia
+
+En primer lugar, para poder usar esta aplicación, se necesitará del dispositivo fisico de ESP32 junto a su sensore magnetico alámbrico Nc para la usabilidad de todas las funciones de la aplicación.
+
 ### Instrucciones
 
 * **Descarga y clonación del proyecto**: Para clonar el proyecto copie su enlace, abra su terminal y realice
@@ -33,4 +37,4 @@
     ```bash
         ionic cap open android
     ```
-    Lugo de haber abierto el proyecto, dirijase a la barra de menú supeior de Android Studio en opción **Build** y luego en opción **Build Bundle(s) / APK(s) y luego en Build APK(S), esto generara su APK.
+    Lugo de haber abierto el proyecto, dirijase a la barra de menú superior de Android Studio en opción **Build**, luego en opción **Build Bundle(s) / APK(s)** y despues en Build APK(S), esto generara su APK.
