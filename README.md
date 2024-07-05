@@ -2,7 +2,7 @@
 
 ### Advertencia
 
-En primer lugar, para poder usar esta aplicación, se necesitará del dispositivo fisico de ESP32 junto a su sensore magnetico alámbrico Nc para la usabilidad de todas las funciones de la aplicación.
+En primer lugar, para poder usar esta aplicación, se necesitará del dispositivo fisico de ESP32 junto a su sensor magnetico alámbrico Nc para la usabilidad de todas las funciones de la aplicación.
 
 ### Instrucciones
 
